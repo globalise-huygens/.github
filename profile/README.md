@@ -11,7 +11,7 @@ GLOBALISE is a project based at the Huygens Institute (KNAW Humanities Cluster) 
 For more information, see: https://globalise.huygens.knaw.nl
 
 <p float="left">
-<img align="middle" src="./assets/globalise.svg" alt="GLOBALISE Logo" width="90%">
+<img align="middle" src="../assets/globalise.svg" alt="GLOBALISE Logo" width="90%">
 </p>
 
 [^1]: This series comprises inventory numbers 1053-4454 and 7527-11024 from the VOC archives, National Archives, The Hague. Scans (n=4,802,212) of the original documents are available on the website of the Dutch National Archives: https://www.nationaalarchief.nl/onderzoeken/archief/1.04.02/.
